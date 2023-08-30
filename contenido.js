@@ -70,5 +70,11 @@
                 5) llamamos y utilizamo las variables
                 6) antes de pushear en github -> .gitignore -> .env
 ? README
-  
+  - archivo de texto -> informacion sobre el proyecto
+  - incluye:
+    -> descripcion general del proyecto
+    -> instrucciones para instalarlo y utilizarlo
+    -> funcionalidades principales
+    -> autores y agradecimientos
+    
   */
