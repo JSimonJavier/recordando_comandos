@@ -11,7 +11,7 @@ const URL = `mongodb+srv://${process.env.USER}:${process.env.PASSWORD}@data-base
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
-
+app.use("/health", (req, res) => res.sendStatus(200));
 app.use("/", productRouter)
 
 const connectToMongo = async() => {

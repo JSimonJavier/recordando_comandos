@@ -18,6 +18,7 @@ Paso a paso de como descargar el repositorio y levantarlo.
 3. Correr el proyecto con : _npm start_
 
 ## Autores y contacto
+URL: https://queen-proyecto-javiersimon.onrender.com
 Profesor Javier Simon
 Contacto P5
 
